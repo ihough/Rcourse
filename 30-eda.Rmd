@@ -312,7 +312,7 @@ boxplot(sample1)
 
 
 #### Visualizing Bivariate Continuous Data
-The bivariate counterpart of the `stipchart` is the celebrated scatter plot. 
+The bivariate counterpart of the `stripchart` is the celebrated scatter plot.
 ```{r}
 n <- 20
 x1 <- rexp(n)
